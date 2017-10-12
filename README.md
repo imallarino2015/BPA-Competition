@@ -1,6 +1,6 @@
 # BPA-Competition
 
-These are competition-winning programs unchanged from the date of their creation in 2012, and may not reflect on my current style/methods of programming.
+These are programs I created that placed in the Business Professionals of America's C++ 2012 regional and state competition.
 
 Palindrome takes in a user's string as input and tells the user whether that string is palindromic.
 
